@@ -1,0 +1,49 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "",
+      "title": "Watch: 'Avatar' director James Cameron shares how his dreams inspire his films | CNN",
+      "description": "CNN's Fareed Zakaria speaks with Oscar-winning filmmaker James Cameron, the mind behind some of the highest grossing movies of all time like \"Avatar\" and \"Titanic,\" about how his dreams inspired his iconic films.",
+      "url": "http://us.cnn.com/videos/entertainment/2023/04/02/avatar-director-james-cameron-dreams-titanic-terminator-gps-vpx.cnn",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230402112237-james-cameron-fareed-1.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-04-02T16:03:47Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "entertainment-weekly",
+        "name": "Entertainment Weekly"
+      },
+      "author": "Christian Holub",
+      "title": "What's leaving Netflix in April 2023: <em>New Girl, Scott Pilgrim, Ash vs. Evil Dead</em>, and more",
+      "description": "Check out the full list of movies and TV shows leaving the streaming service next month.",
+      "url": "https://ew.com/tv/whats-leaving-netflix-in-april-2023-new-girl-scott-pilgrim-ash-vs-evil-dead-and-more/",
+      "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=0%2C0%2C2000%2C1000&poi=%5B60%2C53%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F03%2F22%2FLeaving-Netflix-April-032223.jpg",
+      "publishedAt": "2023-03-31T16:00:00Z",
+      "content": "Spring is finally here, but, just as the seasons change, so do the offerings on our favorite streamers. As usual, Netflix will be shaking off a number of movies and TV shows in April to make room for… [+1223 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "https://www.engadget.com/about/editors/mariella-moon",
+      "title": "Netflix hopes making fewer original movies will make them better | Engadget",
+      "description": "Netflix Film chief Scott Stuber reportedly decided to cut down on the titles the service is releasing this year so he could ensure that the division is producing more high-quality projects..",
+      "url": "https://www.engadget.com/netflix-hopes-making-fewer-original-movies-will-make-them-better-075456182.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/SgCIvPNe7GURAqCnR5xiog--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/fe69f2f0-cf90-11ed-a73e-b1c9caf9863c.cf.jpg",
+      "publishedAt": "2023-03-31T08:07:14.6593666Z",
+      "content": "Netflix released at least one movie a week over the past two years, but for 2023, the company is changing course. According to Bloomberg, the streaming giant is restructuring its movie division and r… [+1987 chars]"
+    },
+    {
+      "source": { "id": "ign", "name": "IGN" },
+      "author": "Collier Jennings",
+      "title": "Best Action Movies on Netflix Right Now (September 2022) - IGN",
+      "description": "These are the best action movies on Netflix right now -- blockbusters, fight films, animated adventures and shootouts galore.",
+      "url": "https://www.ign.com/articles/best-action-movies-on-netflix-right-now",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/07/28/rrr-1659047262112.jpg?width=1280",
+      "publishedAt": "2022-09-01T18:03:14Z",
+      "content": "There is nothing like a good action movie on Netflix. The perfectly choreographed fight scenes that let you feel every punch and kick on screen; the shootouts that see bullets and bodies hitting the … [+11394 chars]"
+    }
+  ]
+}
